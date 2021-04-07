@@ -1,4 +1,4 @@
-package com.wangyousong.blog.hutoolstudy;
+package com.wangyousong.blog.hutoolstudy.crypto;
 
 import cn.hutool.crypto.SecureUtil;
 import cn.hutool.crypto.symmetric.AES;

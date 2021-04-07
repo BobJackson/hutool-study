@@ -1,5 +1,6 @@
-package com.wangyousong.blog.hutoolstudy;
+package com.wangyousong.blog.hutoolstudy.crypto;
 
+import com.wangyousong.blog.hutoolstudy.crypto.UserServiceImpl;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
